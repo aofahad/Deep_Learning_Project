@@ -1,4 +1,4 @@
-                                           Speech Emotion Recognition With Deep Learning 
+# Speech Emotion Recognition With Deep Learning 
 
 <p align="center" width="100%">
 <img
